@@ -1,0 +1,13 @@
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\bin\Debug\netcoreapp3.1\Prov 1.exe
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\bin\Debug\netcoreapp3.1\Prov 1.deps.json
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\bin\Debug\netcoreapp3.1\Prov 1.runtimeconfig.json
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\bin\Debug\netcoreapp3.1\Prov 1.runtimeconfig.dev.json
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\bin\Debug\netcoreapp3.1\Prov 1.dll
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\bin\Debug\netcoreapp3.1\Prov 1.pdb
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.csprojAssemblyReference.cache
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.AssemblyInfoInputs.cache
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.AssemblyInfo.cs
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.csproj.CoreCompileInputs.cache
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.dll
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.pdb
+C:\Users\simon.kjellgren\Documents\Programmering\Programmering 1\Prov 1\Prov 1\obj\Debug\netcoreapp3.1\Prov 1.genruntimeconfig.cache
